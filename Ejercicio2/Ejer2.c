@@ -8,6 +8,7 @@ int main(){
 	int anio; //contador de años
 	char l;
 	
+    printf("Programa para calcular la tasa de interes por año de un monto de $1000\n");
 	//printf("anios = %d, monto = %lf\n", anio, monto);
 	
 	printf("¿A que tasa va a querer ingresar el monto inicial?\n");
