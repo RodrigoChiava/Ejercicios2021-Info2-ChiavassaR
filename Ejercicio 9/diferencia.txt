@@ -1,0 +1,1 @@
+La misma estructura, ocupa menos espacio en arduino que en pc, ya que en el primero ocupa 7 bits y en pc 12 bits
